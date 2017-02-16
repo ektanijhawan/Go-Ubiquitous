@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">SunshineWearbale</string>
-    <string name="message">Watch face tapped</string>
+    <string name="app_name">Sunshine</string>
     <string name="my_analog_name">My Analog</string>
+    <string name="my_digital_name">My Digital</string>
+    <string name="info_not_available">Info not available!</string>
+    <string name="pref_last_wear_update">last_wear_update</string>
+
 </resources>
